@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+langchain_community
+langchain_core
+transformers
+pandas
+ragatouille
+google-generativeai
+rank_bm25
+python-multipart
+pydantic
+starlette
+langchain-huggingface         
+requests              
