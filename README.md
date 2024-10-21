@@ -1,6 +1,8 @@
 # AI-Based-ChatBot
 This repository contains a chatbot that enables users to upload files as input, which then uses them to train itself. The chatbot parses the data from the file and generates its responses on the content (information) within the file, providing customized answers tailored to the information it has been trained on.
 
+*Note:* In order to fully understand the internal functionality and procedure of this AI based Chat-Bot, It is highly recommmded to go through the initial (earlier) version of the project code, which is shown in the `Basic_CLI_Chatbot` jupyter notebook file. After that, the user can move further to utilize code, which is written in FastAPI architecture in `fastapp_api.py` file.
+
 ### Key Features:
 
 **File Upload Training:** The chatbot accepts various file formats (e.g., text, CSV, PDF) and extracts relevant data to learn from.
